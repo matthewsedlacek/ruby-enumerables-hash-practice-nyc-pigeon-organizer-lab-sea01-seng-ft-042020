@@ -1,3 +1,3 @@
 def nyc_pigeon_organizer(data)
-  data.map
+  data.reduce do |memo, value|
 end
